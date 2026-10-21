@@ -1,0 +1,4 @@
+edu/kabuluniversity/courseapi/Course.class
+edu/kabuluniversity/courseapi/CourseRequest.class
+edu/kabuluniversity/courseapi/CourseApiApplication.class
+edu/kabuluniversity/courseapi/CourseController.class
